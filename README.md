@@ -28,7 +28,7 @@ Email Me 👉 ✉️ **waishalam228@gmail.com**
 
 
 
-![](https://github-readme-stats.shion.dev/api?username=Waish228&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
+<img height="169em" src="https://github-readme-stats.shion.dev/api?username=Waish228&theme=radical&hide_border=false&include_all_commits=true&count_private=false">
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Waish228&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
