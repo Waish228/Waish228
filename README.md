@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Waish Alam
-**
+
 🎓 B.Tech CST Student at Narula Institute of Technology
 
 💻 Interested in Web Development, IoT, and Software Development
@@ -8,7 +8,7 @@
 
 🌱 Currently working on IoT and Full-Stack Development projects
 
-**
+
 
 Email Me 👉 ✉️ **waishalam228@gmail.com**
 
