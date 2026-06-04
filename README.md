@@ -12,6 +12,14 @@
 
 Email Me 👉 ✉️ **waishalam228@gmail.com**
 
+## 🏆 Highlights
+
+- B.Tech CST Student
+- Web Developer
+- IoT Enthusiast
+- Open Source Learner
+- Building Real-World Projects
+
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
@@ -31,6 +39,8 @@ Email Me 👉 ✉️ **waishalam228@gmail.com**
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
+![Javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
 # 📊 GitHub Stats:
