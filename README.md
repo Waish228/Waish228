@@ -4,19 +4,18 @@
 
 💻 Interested in Web Development, IoT, and Software Development
 
-🚀 Building projects using Java, Python, JavaScript, ESP32, and Flask
+🚀 Building projects using HTML, CSS, JavaScript.
 
 🌱 Currently working on IoT and Full-Stack Development projects
 
 Email Me 👉 ✉️ **waishalam228@gmail.com**
 
-## 🏆 Highlights
+# 🌐 Socials:
 
-- B.Tech CST Student
-- Web Developer
-- IoT Enthusiast
-- Open Source Learner
-- Building Real-World Projects
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/waishalam744)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/waish-alam-580791282)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:waishalam228@gmail.com)
+
 
 <div align="center">
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
