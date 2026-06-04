@@ -1,4 +1,20 @@
+# 💫 Hi 👋, I'm Waish Alam
+**A passionate passionate developer with a love for creating innovative solutions. This portfolio showcases my projects, skills, and experience in the world of software development. Feel free to explore and get in touch!**
 
+Email Me 👉 ✉️ **waishalam228@gmail.com**
+
+- 🔭 **I’m currently working on:** Enter your project info here
+- 🌱 **I’m currently learning:** Enter your tech here
+- 👯 **I’m looking to collaborate on:** Enter your project name and info
+- 🤔 **I’m looking for help with:** Your project here
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** Enter your email here
+- 😄 **Pronouns:** Imran Sir
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/waishalam744) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/waish-alam-580791282) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:waishalam228@gmail.com) 
 
